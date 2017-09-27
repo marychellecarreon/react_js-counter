@@ -16,8 +16,8 @@ This app uses a React to have a simple demo on the usage of components, props an
 
 - Clone the repository
 
-'''
-$ npm start
-'''
+```sh
+  $ npm start
+```
 
 Then go to  http://localhost:3000/
